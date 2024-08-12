@@ -3,8 +3,8 @@
 Welcome to my GitHub! I'm an aspiring cybersecurity professional with a passion for protecting systems, networks, and data from cyber threats. My goal is to contribute to the security field by leveraging my skills in ethical hacking, penetration testing, and security analysis.
 
 ## 🌐 About Me
-[Coursera cert.pdf](https://github.com/user-attachments/files/16579929/Coursera.cert.pdf)
-[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/16579942/CompTIA.Security%2B.ce.certificate.pdf)
+
+<img width="1107" alt="Screenshot 2024-08-12 at 10 51 44" src="https://github.com/user-attachments/assets/138f1818-6256-406f-9bf1-c055be9aa839">
 
 
 - 🎓 **Education**: Psychology in Coventry University 
