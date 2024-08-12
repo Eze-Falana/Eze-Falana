@@ -3,6 +3,9 @@
 Welcome to my GitHub! I'm an aspiring cybersecurity professional with a passion for protecting systems, networks, and data from cyber threats. My goal is to contribute to the security field by leveraging my skills in ethical hacking, penetration testing, and security analysis.
 
 ## 🌐 About Me
+[Coursera cert.pdf](https://github.com/user-attachments/files/16579929/Coursera.cert.pdf)
+[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/16579942/CompTIA.Security%2B.ce.certificate.pdf)
+
 
 - 🎓 **Education**: Psychology in Coventry University 
 - 🎯 **Certifications**: CompTIA Security+, Google Cybersecurity
@@ -20,8 +23,8 @@ Welcome to my GitHub! I'm an aspiring cybersecurity professional with a passion 
 
 Here are some of the projects I’ve worked on that demonstrate my cybersecurity skills:
 
-### 1. **Vulnerable Web Application (VWA) Penetration Testing**
-   - **Description**: Conducted a penetration test on a deliberately vulnerable web application to identify and exploit common web vulnerabilities (e.g., SQL injection, XSS, CSRF).
+### 1. **Conducted a Security Audit**
+   - **Description**: Conduct an internal security audit.
    - **Tools Used**: Burp Suite, OWASP ZAP, SQLmap, Kali Linux
    - **[Repository Link](#)**
 
