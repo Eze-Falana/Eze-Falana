@@ -1,4 +1,4 @@
-# 💻 Ezekiel – Aspiring Cybersecurity Professional
+# 💻 Ezekiel – Aspiring Cybersecurity Professional- https://www.linkedin.com/in/ezekiel-falana-497807110/
 
 Welcome to my GitHub! I'm an aspiring cybersecurity professional with a passion for protecting systems, networks, and data from cyber threats. My goal is to contribute to the security field by leveraging my skills in ethical hacking, penetration testing, and security analysis.
 
