@@ -30,8 +30,8 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
    - **[Project Link](#https://github.com/Eze-Falana/Conducting-a-Security-Audit)**
 
 ### 2. **Apply Filters to SQL Queries**
-   - **Description**: Set up an ELK (Elasticsearch, Logstash, Kibana) stack to monitor network traffic for anomalies and potential security incidents.
-   - **Tools Used**: ELK Stack, Suricata, pfSense
+   - **Description**: I applied various SQL filters to extract specific information from the log_in_attempts and employees tables. By using operators such as AND, OR, and NOT, along with wildcard patterns, I was able to obtain the necessary data for each task.
+   - **Tools Used**: SQL
    - **[Repository Link](#)**
 
 ### 3. **Password Cracking Simulation**
