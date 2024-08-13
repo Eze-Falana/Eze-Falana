@@ -27,7 +27,7 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
 ### 1. **Conducted a Security Audit**
    - **Description**: Conduct an internal security audit.
    - **Tools Used**: Burp Suite, OWASP ZAP, SQLmap, Kali Linux
-   - **[Repository Link](#)**
+   - **[Repository Link](#Conducting a security audit)**
 
 ### 2. **Network Security Monitoring with ELK Stack**
    - **Description**: Set up an ELK (Elasticsearch, Logstash, Kibana) stack to monitor network traffic for anomalies and potential security incidents.
