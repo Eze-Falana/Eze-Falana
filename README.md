@@ -42,7 +42,7 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
 ### 4. **File permissions in Linux**
    - **Description**: I changed multiple permissions to match the level of authorization my organization wanted for files and directories in the projects directory. 
    - **Tools Used**: Linux
-   - **[Repository Link](#)**
+   - **[Repository Link](#https://github.com/Eze-Falana/File-Permissions-in-Linux)**
 
 ## 🧠 Blogs & Tutorials
 
