@@ -26,8 +26,8 @@ Welcome to my GitHub! I'm an aspiring cybersecurity professional with a passion 
 Here are some of the projects I’ve worked on that demonstrate my cybersecurity skills:
 
 ### 1. **Conducted a Security Audit**
-   - **Description**: Conduct an internal security audit.
-   - **Tools Used**: Burp Suite, OWASP ZAP, SQLmap, Kali Linux
+   - **Description**: The audit report for Botium Toys reveals significant security gaps, including inadequate access controls, lack of encryption, and insufficient disaster recovery plans. Immediate actions are needed to implement key controls, such as Least Privilege and encryption, to enhance security and ensure compliance with industry standards.
+     
    - **[Repository Link](#Conducting-a-Security-Audit)**
 
 ### 2. **Network Security Monitoring with ELK Stack**
