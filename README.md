@@ -46,7 +46,7 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
    - **[Project Link](https://github.com/Eze-Falana/File-Permissions-in-Linux)**
 
 ### 5. **Vulnerability Assessment Report
-   -**Description**:A written report that explains how the vulnerable server is a risk to business operations and how it can be secured.
+   -**Description**:A written report that explains how the vulnerable server is a risk to a small business and how it can be secured.
    **[Project Link](https://github.com/Eze-Falana/Vulnerability-Assessment-Report)**
 
 
