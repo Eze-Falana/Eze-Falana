@@ -32,7 +32,7 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
 ### 2. **Apply Filters to SQL Queries**
    - **Description**: I applied various SQL filters to extract specific information from the log_in_attempts and employees tables. By using operators such as AND, OR, and NOT, along with wildcard patterns, I was able to obtain the necessary data for each task.
    - **Tools Used**: SQL
-   - **[Repository Link](#)**
+   - **[Project link](#https://github.com/Eze-Falana/Applying-filters-to-SQL-Queries)**
 
 ### 3. **Update a file through a Python Algorithm**
    - **Description**: I created an algorithm that removes IP addresses identified in a remove_list variable from the "allow_list.txt" file of approved IP addresses. This algorithm involved opening the file, converting it to a string to be read, and then converting this string to a list stored in the variable ip_addresses. 
