@@ -58,7 +58,7 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
 
 ## 🎯 Goals
 
-- Continue learning advanced penetration testing techniques.
+- Continue learning and familiarising myself with SIEM tools.
 - Contribute to open-source cybersecurity tools and projects.
 - Earn CYSA+.
 
