@@ -34,9 +34,9 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
    - **Tools Used**: SQL
    - **[Repository Link](#)**
 
-### 3. **Password Cracking Simulation**
-   - **Description**: Simulated a password cracking scenario using various tools to understand the importance of strong passwords and effective password policies.
-   - **Tools Used**: John the Ripper, Hashcat
+### 3. **Update a file through a Python Algorithm**
+   - **Description**: I created an algorithm that removes IP addresses identified in a remove_list variable from the "allow_list.txt" file of approved IP addresses. This algorithm involved opening the file, converting it to a string to be read, and then converting this string to a list stored in the variable ip_addresses. 
+   - **Tools Used**: Python
    - **[Repository Link](#)**
 
 ### 4. **Malware Analysis Sandbox**
