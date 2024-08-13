@@ -11,12 +11,13 @@ Welcome to my GitHub! I'm an aspiring cybersecurity professional with a passion 
 - 🎓 **Education**: Psychology in Coventry University 
 - 🎯 **Certifications**: CompTIA Security+, Google Cybersecurity
 - 🛡️ **Skills**:
-  - Penetration Testing (Kali Linux, Metasploit)
+  - Siem tools
   - Vulnerability Assessment & Management
   - Network Security & Firewalls
-  - Cryptography
+  - SQL,Linux
   - Incident Response & Analysis
   - Security Auditing & Compliance
+  - Python
 
 - 💼 **Looking For**: Entry-level opportunities in cybersecurity where I can apply my knowledge to real-world challenges.
 
