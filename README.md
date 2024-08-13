@@ -39,9 +39,9 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
    - **Tools Used**: Python
    - **[Repository Link](#)**
 
-### 4. **Malware Analysis Sandbox**
-   - **Description**: Built a controlled environment to analyze the behavior of malware samples safely.
-   - **Tools Used**: Cuckoo Sandbox, VirtualBox, Wireshark
+### 4. **File permissions in Linux**
+   - **Description**: I changed multiple permissions to match the level of authorization my organization wanted for files and directories in the projects directory. 
+   - **Tools Used**: Linux
    - **[Repository Link](#)**
 
 ## 🧠 Blogs & Tutorials
