@@ -27,23 +27,23 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
 
 ### 1. **Conducted a Security Audit**
    - **Description**: The audit report for Botium Toys reveals significant security gaps, including inadequate access controls, lack of encryption, and insufficient disaster recovery plans. Immediate actions are needed to implement key controls, such as Least Privilege and encryption, to enhance security and ensure compliance with industry standards.
-   - [Check out the repository](https://github.com/Eze-Falana/Conducting-a-Security-Audit)
+   - **[Project Link](https://github.com/Eze-Falana/Conducting-a-Security-Audit)**
 
 
 ### 2. **Apply Filters to SQL Queries**
    - **Description**: I applied various SQL filters to extract specific information from the log_in_attempts and employees tables. By using operators such as AND, OR, and NOT, along with wildcard patterns, I was able to obtain the necessary data for each task.
    - **Tools Used**: SQL
-   - **[Project link](#https://github.com/Eze-Falana/Applying-filters-to-SQL-Queries)**
+   - **[Project link](https://github.com/Eze-Falana/Applying-filters-to-SQL-Queries)**
 
 ### 3. **Update a file through a Python Algorithm**
    - **Description**: I created an algorithm that removes IP addresses identified in a remove_list variable from the "allow_list.txt" file of approved IP addresses. This algorithm involved opening the file, converting it to a string to be read, and then converting this string to a list stored in the variable ip_addresses. 
    - **Tools Used**: Python
-   - **[Repository Link](#https://github.com/Eze-Falana/Update-a-file-through-a-Python-Algorithm)**
+   - **[Project Link](https://github.com/Eze-Falana/Update-a-file-through-a-Python-Algorithm)**
 
 ### 4. **File permissions in Linux**
    - **Description**: I changed multiple permissions to match the level of authorization my organization wanted for files and directories in the projects directory. 
    - **Tools Used**: Linux
-   - **[Repository Link](#https://github.com/Eze-Falana/File-Permissions-in-Linux)**
+   - **[Project Link](https://github.com/Eze-Falana/File-Permissions-in-Linux)**
 
 ## 🧠 Blogs & Tutorials
 
