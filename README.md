@@ -27,7 +27,7 @@ Here are some of the projects I’ve worked on that demonstrate my cybersecurity
 
 ### 1. **Conducted a Security Audit**
    - **Description**: The audit report for Botium Toys reveals significant security gaps, including inadequate access controls, lack of encryption, and insufficient disaster recovery plans. Immediate actions are needed to implement key controls, such as Least Privilege and encryption, to enhance security and ensure compliance with industry standards.
-   - **[Project Link](#https://github.com/Eze-Falana/Conducting-a-Security-Audit)**
+   - [Project Link](#https://github.com/Eze-Falana/Conducting-a-Security-Audit)
 
 ### 2. **Apply Filters to SQL Queries**
    - **Description**: I applied various SQL filters to extract specific information from the log_in_attempts and employees tables. By using operators such as AND, OR, and NOT, along with wildcard patterns, I was able to obtain the necessary data for each task.
