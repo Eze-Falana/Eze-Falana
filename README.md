@@ -4,12 +4,11 @@ Welcome to my GitHub! I'm an aspiring cybersecurity professional with a passion 
 
 ## 🌐 About Me
 
-<img width="1107" alt="Screenshot 2024-08-12 at 10 51 44" src="https://github.com/user-attachments/assets/138f1818-6256-406f-9bf1-c055be9aa839">
-<img width="1106" alt="Screenshot 2024-08-12 at 10 53 13" src="https://github.com/user-attachments/assets/d363c365-19d1-4c30-aca4-f61a760be857">
+
 
 
 - 🎓 **Education**: Psychology in Coventry University 
-- 🎯 **Certifications**: CompTIA Security+, Google Cybersecurity
+- 🎯 **Certifications**: 
 - 🛡️ **Skills**:
   - Siem tools
   - Vulnerability Assessment & Management
